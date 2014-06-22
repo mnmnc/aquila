@@ -1,0 +1,11 @@
+2014/03/21 11:39:29 cnn.com
+
+cnn.com (157.166.226.26)
+
+ 2 195.114.190.59 bedzin-bras1.inetia.pl 10.407 [AS12741] Warsaw Poland  52.25 21
+ 3 81.210.127.182 warsh002rt04-warsc001rt03.inetia.pl 10.666 [AS12741]  Poland  52 20
+ 4 77.67.75.37 xe-4-0-2.fra61.ip4.tinet.net 56.471 [AS3257]  France  48.86 2.35
+ 5 89.149.186.30 xe-0-3-2.was14.ip4.tinet.net 119.413 [AS3257]  France  48.8700 2.3600
+ 6 77.67.68.14 as2828.ip4.tinet.net 118.512 [AS3257]  France  48.8800 2.3700
+ 7 207.88.14.162 207.88.14.162.ptr.us.xo.net 140.551 [AS2828]  United States  38 -97
+ 8 207.88.13.161 ae1d0.cir1.atlanta6-ga.us.xo.net 134.414 [AS2828]  United States  38.0100 -96.9900
