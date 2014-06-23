@@ -1,5 +1,8 @@
 aquila
 ======
+  [Eagle]
+  Pronunciation: /ˈa.kʷi.la/
+  
 
 Visual traceroute with google maps.
 
