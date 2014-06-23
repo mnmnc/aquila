@@ -1,9 +1,9 @@
 aquila
 ======
-> [Eagle] Pronunciation: /ˈa.kʷi.la/
-  
 
 Visual traceroute with google maps.
+
+> [Eagle] Pronunciation: /ˈa.kʷi.la/
 
 ### Example trace for thepeak.com.hk:
 
